@@ -126,7 +126,7 @@ export default function Resume() {
   return (
     <Container>
       <Header>
-        <Title>Cadastro</Title>
+        <Title>Resumo</Title>
       </Header>
 
       {isLoading ? (

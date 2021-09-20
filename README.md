@@ -40,6 +40,10 @@ Inicie o expo
 expo start
 ```
 
+### Login Social
+
+Será necessário ter um app registrado no [Google Cloud](https://console.cloud.google.com/) para que consiga utilizar esta feature. Você pode observar as informações que deve completar no arquivo .env.exemple.
+
 ## Tecnologias
 
 - [React Native](https://reactnative.dev/)
